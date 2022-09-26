@@ -46,3 +46,6 @@ class ScrabbleTest < Minitest::Test
     assert_equal 13, Scrabble.score('alacrity')
   end
 end
+
+
+
